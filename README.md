@@ -1,4 +1,4 @@
-# Legal Shorts Autopilot
+# Legal Shorts
 
 🚀 This project auto-generates 1-minute YouTube Shorts about law, AI, and global news.
 
